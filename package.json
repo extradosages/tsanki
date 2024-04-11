@@ -23,10 +23,10 @@
         "types"
     ],
     "license": "MIT",
-    "name": "t-unit",
+    "name": "tsanki",
     "repository": {
         "type": "git",
-        "url": "https://github.com/extradosages/t-unit.git"
+        "url": "https://github.com/extradosages/tsanki.git"
     },
     "types": "./dist/index.d.ts",
     "version": "1.0.0"
