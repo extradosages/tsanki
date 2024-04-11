@@ -1,0 +1,30 @@
+{
+    "author": {
+        "email": "extradosages.001@gmail.com",
+        "name": "extradosages"
+    },
+    "description": "Unit tests for typescript types",
+    "devDependencies": {
+        "prettier": "^3.2.5",
+        "typescript": "^5.4.5"
+    },
+    "exports": {
+        ".": "./dist/index.js"
+    },
+    "imports": {
+        "#type-test": "./lib/src/index.js"
+    },
+    "keywords": [
+        "tests",
+        "typescript",
+        "types"
+    ],
+    "license": "MIT",
+    "name": "texpect",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/extradosages/texpect.git"
+    },
+    "types": "./dist/index.d.ts",
+    "version": "1.0.0"
+}

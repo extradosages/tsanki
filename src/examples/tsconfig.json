@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "emitDeclarationOnly": false,
+        "noEmit": true
+    },
+    "extends": "../base.tsconfig.json",
+    "references": [{ "path": "../lib" }],
+    "include": ["./*.ts"]
+}
