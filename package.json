@@ -3,7 +3,7 @@
         "email": "extradosages.001@gmail.com",
         "name": "extradosages"
     },
-    "description": "Unit tests for typescript types",
+    "description": "Compile-time unit tests for typescript types",
     "devDependencies": {
         "prettier": "^3.2.5",
         "typescript": "^5.4.5"
